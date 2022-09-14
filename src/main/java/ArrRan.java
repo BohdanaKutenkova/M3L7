@@ -1,7 +1,4 @@
 import java.util.*;
-import java.util.function.ToLongFunction;
-import java.util.stream.LongStream;
-import java.util.stream.Stream;
 
 public class ArrRan {
     public static void main(String[] args) {
